@@ -1,0 +1,22 @@
+﻿<Window x:Class="zadatki_za_test_s_operacijskih.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zadatki_za_test_s_operacijskih"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="402,164,0,0" Click="Button_Click"/>
+        <TextBox x:Name="textbox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Margin="57,101,0,0"/>
+        <TextBox x:Name="textbox2" HorizontalAlignment="Left" Height="23" Margin="236,101,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="142"/>
+        <TextBox x:Name="textbox3" HorizontalAlignment="Left" Height="23" Margin="448,101,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="189"/>
+        <Label x:Name="labela1" Content="Label" HorizontalAlignment="Left" Height="23" Margin="197,101,0,0" VerticalAlignment="Top" Width="25" RenderTransformOrigin="0.17,0.455"/>
+        <Label x:Name="labela2" Content="Label" HorizontalAlignment="Left" Height="23" Margin="402,101,0,0" VerticalAlignment="Top" Width="25"/>
+        <RadioButton x:Name="minus" Content="-" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="60,169,0,0" Width="117" Checked="RadioButton_Checked"/>
+        <RadioButton x:Name="plus" Content="+" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="0.855,2.379" Margin="236,169,0,0" Width="106" Checked="plus_Checked"/>
+        <ListBox x:Name="listbox1" HorizontalAlignment="Left" Height="129" Margin="60,231,0,0" VerticalAlignment="Top" Width="117" MouseDoubleClick="brisanje" MouseEnter="zuto" MouseLeave="zeleno" SelectionChanged="listbox1_SelectionChanged"/>
+        <TextBox x:Name="textbox4" HorizontalAlignment="Left" Height="33" Margin="236,327,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="142"/>
+
+    </Grid>
+</Window>

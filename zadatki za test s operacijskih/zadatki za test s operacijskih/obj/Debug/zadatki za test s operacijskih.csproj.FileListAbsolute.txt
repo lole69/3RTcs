@@ -1,0 +1,15 @@
+D:\programi s visuala c#\zadatki za test s operacijskih\zadatki za test s operacijskih\bin\Debug\zadatki za test s operacijskih.exe.config
+D:\programi s visuala c#\zadatki za test s operacijskih\zadatki za test s operacijskih\bin\Debug\zadatki za test s operacijskih.exe
+D:\programi s visuala c#\zadatki za test s operacijskih\zadatki za test s operacijskih\bin\Debug\zadatki za test s operacijskih.pdb
+D:\programi s visuala c#\zadatki za test s operacijskih\zadatki za test s operacijskih\obj\Debug\zadatki za test s operacijskih.csproj.AssemblyReference.cache
+D:\programi s visuala c#\zadatki za test s operacijskih\zadatki za test s operacijskih\obj\Debug\MainWindow.g.cs
+D:\programi s visuala c#\zadatki za test s operacijskih\zadatki za test s operacijskih\obj\Debug\App.g.cs
+D:\programi s visuala c#\zadatki za test s operacijskih\zadatki za test s operacijskih\obj\Debug\zadatki za test s operacijskih_MarkupCompile.cache
+D:\programi s visuala c#\zadatki za test s operacijskih\zadatki za test s operacijskih\obj\Debug\zadatki za test s operacijskih_MarkupCompile.lref
+D:\programi s visuala c#\zadatki za test s operacijskih\zadatki za test s operacijskih\obj\Debug\MainWindow.baml
+D:\programi s visuala c#\zadatki za test s operacijskih\zadatki za test s operacijskih\obj\Debug\zadatki za test s operacijskih.g.resources
+D:\programi s visuala c#\zadatki za test s operacijskih\zadatki za test s operacijskih\obj\Debug\zadatki_za_test_s_operacijskih.Properties.Resources.resources
+D:\programi s visuala c#\zadatki za test s operacijskih\zadatki za test s operacijskih\obj\Debug\zadatki za test s operacijskih.csproj.GenerateResource.cache
+D:\programi s visuala c#\zadatki za test s operacijskih\zadatki za test s operacijskih\obj\Debug\zadatki za test s operacijskih.csproj.CoreCompileInputs.cache
+D:\programi s visuala c#\zadatki za test s operacijskih\zadatki za test s operacijskih\obj\Debug\zadatki za test s operacijskih.exe
+D:\programi s visuala c#\zadatki za test s operacijskih\zadatki za test s operacijskih\obj\Debug\zadatki za test s operacijskih.pdb
